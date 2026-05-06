@@ -22,8 +22,8 @@ Lipid percentages (mol%) based on van Meer et al., 2008 and Sastry, 1985.
 ## Discussion
 
 ### What we investigated
-We compared the lipid composition of membranes in three cell types — 
-erythrocytes, neurons, and mitochondria — and analyzed how composition 
+We compared the lipid composition of membranes in three cell types:
+erythrocytes, neurons, and mitochondria and analyzed how composition 
 relates to cell function.
 
 ### Finding 1 — each cell tunes its membrane for its specific function
@@ -57,12 +57,12 @@ The most striking pattern visible directly on the comparison chart:
 | Neuron       | 8%  | 27% |
 | Mitochondria | 3%  | 35% |
 
-As SM increases, PE decreases — and vice versa. SM contributes to membrane 
+As SM increases, PE decreases and vice versa. SM contributes to membrane 
 rigidity while PE contributes to flexibility. Each cell appears to balance 
 these two properties according to its functional requirements.
 
 ## Conclusion
-This analysis demonstrates that lipid composition is not random — 
+This analysis demonstrates that lipid composition is not random 
 it is precisely regulated to match the mechanical and functional 
 demands of each cell type.
 
