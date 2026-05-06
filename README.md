@@ -5,7 +5,7 @@ This project analyzes and visualizes the lipid composition of cell membranes
 in three cell types: erythrocytes, neurons, and mitochondria.
 
 ## Data
-Lipid percentages (mol%) based on van Meer et al., 2008 and Sastry, 1985.
+Lipid percentages (mol%) based on [van Meer et al., 2008 and Sastry, 1985.](https://pubmed.ncbi.nlm.nih.gov/18216768/)
 
 | Lipid | Erythrocyte | Neuron | Mitochondria |
 |-------|-------------|--------|--------------|
